@@ -1,0 +1,6 @@
+[submodule "SNL_Platform"]
+	path = SNL_Platform
+	url = https://github.com/RealZayaBell/SNL_Platform.git
+[submodule "SyntacticNaturalLanguage"]
+	path = SyntacticNaturalLanguage
+	url = https://github.com/RealZayaBell/SyntacticNaturalLanguage.git
